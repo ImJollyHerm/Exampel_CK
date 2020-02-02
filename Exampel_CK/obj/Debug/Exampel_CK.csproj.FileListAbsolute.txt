@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\VS2019\Exampel_CK\Exampel_CK\bin\Debug\Exampel_CK.exe.config
+C:\Users\Admin\Desktop\VS2019\Exampel_CK\Exampel_CK\bin\Debug\Exampel_CK.exe
+C:\Users\Admin\Desktop\VS2019\Exampel_CK\Exampel_CK\bin\Debug\Exampel_CK.pdb
+C:\Users\Admin\Desktop\VS2019\Exampel_CK\Exampel_CK\obj\Debug\Exampel_CK.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\VS2019\Exampel_CK\Exampel_CK\obj\Debug\Exampel_CK.exe
+C:\Users\Admin\Desktop\VS2019\Exampel_CK\Exampel_CK\obj\Debug\Exampel_CK.pdb
